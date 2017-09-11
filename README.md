@@ -5,6 +5,8 @@ over in study group, and problems from various quals.  This is through the
 program Anki, which you can download for free here: 
 https://apps.ankiweb.net/.  
 
+I've tried to tag cards from quals with their year and season.
+
 If you just want to browse the questions and answers, I suggest clicking on the
 "browse" button on top of the home screen (other options are Decks and Add).
 Then make sure you select the 302 deck in the sidebar, and there should be the
