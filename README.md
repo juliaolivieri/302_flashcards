@@ -1,6 +1,6 @@
  302_flashcards
 
- NOTE: Anki_2 is the most recent (includes all cards)
+ NOTE: anki_3 is the most recent (includes all cards)
 
 Throughout the summer I've been trying to make flashcards of problems we go
 over in study group, and problems from various quals.  This is through the
